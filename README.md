@@ -6,9 +6,7 @@
 <!-- CONTENTS -->
 ## Contents
 
-### Layout 01
-
-Basic Web Design (Layout 01, 02, 03, 04)
+### Basic Web Design (Layout 01, 02, 03, 04)
 
 | Layout 01                 | Layout 02                |
 |---------------------|-----------------------|
@@ -18,7 +16,7 @@ Basic Web Design (Layout 01, 02, 03, 04)
 |---------------------|-----------------------|
 | ![](./image/StandardWeb_Layout03.jpg) | ![](./image/StandardWeb_Layout04.jpg) |
 
-Responsive Web Design (Layout 05, 06, 07)
+### Responsive Web Design (Layout 05, 06, 07)
 
 | Layout 05                |
 |---------------------|
