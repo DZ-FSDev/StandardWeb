@@ -22,11 +22,11 @@ foreignObject {
 	
 body {background: #ffe0b2; height:100%; width: 100%;}
   #wrap {width: 70%; height:100%; text-align: center; font-size: 4vh; color:#fff;}
-  #header {height: 10%; background: #ffe1e4; clear: both;}
-  #banner {height: 30%; background: #fbd6e3;}
-  #contents {height: 50%; background: #ead5ee;}
-  #footer {height: 10%; background: #d6ebfd;}  
-  .container {margin: 0 auto; height: inherit; background: rgba(0,0,0,0.3);}
+  #header {float: right; height: 10%; background: #ffe1e4;}
+  #banner {float: right; height: 30%; background: #fbd6e3;}
+  #contents {float: right; height: 50%; background: #ead5ee;}
+  #footer {float: right; height: 10%; background: #d6ebfd;}  
+  .container {float: right; margin: 0 auto; height: inherit; background: rgba(0,0,0,0.3);}
 	
 @keyframes slideIn {
   to {
