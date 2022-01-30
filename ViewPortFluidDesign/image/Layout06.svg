@@ -27,7 +27,8 @@ foreignObject {
 #banner {width: 100%; height: 30%; background: #fbd6e3;}
 #contents {width: 100%; height: 50%; background: #ead5ee;}
 #footer {width: 100%; height: 10%; background: #d6ebfd;}  
-.container {width: 50%; height: 100%; background: rgba(0,0,0,0.3); margin: 0 auto;}
+#header .container {width: 50%; height: 100%; background: rgba(0,0,0,0.3); margin: 0 auto;}
+#banner .container {width: 50%; height: 100%; background: rgba(0,0,0,0.3); margin: 0 auto;}
 	
 @keyframes slideIn {
   to {
