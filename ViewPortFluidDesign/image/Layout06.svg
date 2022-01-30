@@ -1,0 +1,64 @@
+<svg width="410" height="355" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+}
+	
+#background {
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  fill: #c8e6c9;
+}
+	
+foreignObject {
+  width: calc(100% - 10px - 32px);
+  height: calc(100% - 10px - 32px);
+}
+	
+.container{
+	width: 100%;
+	height: 100%;
+}
+	
+body {background: #ffe0b2; height:100%;}
+  #wrap {text-align: center; font-size: 4vh; color:#fff;}
+  #header {height: 10%; line-height: 140px; background: #ffe1e4;}
+  #banner {height: 30%; line-height: 450px; background: #fbd6e3;}
+  #contents {height: 50%; line-height: 950px; background: #ead5ee;}
+  #footer {height: 10%; line-height: 220px; background: #d6ebfd;}  
+  .container {width: 50%; margin: 0 auto; height: inherit; background: rgba(0,0,0,0.3);}
+	
+@keyframes slideIn {
+  to {
+    transform: translateX(0);
+  }
+}
+</style>
+<g>
+<rect x="5" y="5" id="background" />
+<g>
+<foreignObject x="21" y="21">
+<div class="container" xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+  <div id="wrap">
+  <div id="header">
+   <div class="container">header</div>
+  </div>
+  <div id="banner">
+   <div class="container">banner</div>
+  </div>
+  <div id="contents">
+   <div class="container">contents</div>
+  </div>
+  <div id="footer">
+   <div class="container">footer</div>
+  </div>
+ </div>
+</body>
+
+</div>
+</foreignObject>
+</g>
+</g>
+</svg>
