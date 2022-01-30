@@ -26,10 +26,10 @@ foreignObject {
 	
 body {background: #ffe0b2; height:100%;}
   #wrap {font-size: 4vh; color: #fff; text-align: center; text-transform: uppercase;}
-  #header-wrap {background-color: #8d6e63; width: 50%; height: 10%;}
-  #banner-wrap {background-color: #a1887f; width: 50%; height: 30%;}
-  #content-wrap {background-color: #bcaaa4; width: 50%; height: 50%}
-  #footer-wrap {background-color: #d7ccc8; width: 50%; height: 10%;}
+  #header-wrap {background-color: #8d6e63; width: 100%; height: 100%;}
+  #banner-wrap {background-color: #a1887f; width: 100%; height: 100%;}
+  #content-wrap {background-color: #bcaaa4; width: 100%; height: 100%;}
+  #footer-wrap {background-color: #d7ccc8; width: 100%; height: 100%;}
 
   .header-container {width: 50%; height: 10%; background-color: #3e2723; margin: 0 auto;}
   .banner-container {width: 50%; height: 30%; background-color: #4e342e; margin: 0 auto;}
