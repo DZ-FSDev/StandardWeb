@@ -61,6 +61,7 @@ body {background: #ffe0b2; height:100%;}
   </div>
   <div id="footer-wrap">
    <div class="footer-container">footer</div>
+  </div>
  </div>
 </body>
 
