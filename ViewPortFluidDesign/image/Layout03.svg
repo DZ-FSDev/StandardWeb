@@ -1,0 +1,59 @@
+<svg width="410" height="355" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+}
+	
+#background {
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  fill: #c8e6c9;
+  stroke: #c8e6c9;
+  stroke-width: 3px;
+  rx: 6px;
+  ry: 6px;
+}
+	
+foreignObject {
+  width: calc(100% - 10px - 32px);
+  height: calc(100% - 10px - 32px);
+}
+	
+.container{
+	width: 100%;
+	height: 100%;
+}
+	
+body {background: #d1c4e9; height:100%;}
+#wrap {width: 100%; height: 100%; margin: 0 auto; font-size: 4vh; color:#fff; text-align: center; text-transform: uppercase;}
+.side {float: left; width: 30%; height: 100%; background: #4527a0;}
+.header {float: left; width: 70%; height: 33.3%; background: #512da8;}
+.contents {float: left; width: 70%; height: 33.3%; background: #5e35b1;}
+.footer {float: left; width: 70%; height: 33.3%; background: #673ab7;}
+	
+@keyframes slideIn {
+  to {
+    transform: translateX(0);
+  }
+}
+</style>
+<g>
+<rect x="5" y="5" id="background" />
+<g>
+<foreignObject x="21" y="21">
+<div class="container" xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+ <div id="wrap">
+  <div class="side">side</div>
+  <div class="header">header</div>
+  <div class="contents">contents</div>
+  <div class="footer">footer</div>
+ </div>
+</body>
+
+</div>
+</foreignObject>
+</g>
+</g>
+</svg>
