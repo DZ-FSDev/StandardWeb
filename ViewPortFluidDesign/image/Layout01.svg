@@ -2,14 +2,12 @@
 <style>
 svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  font-size: 14px;
-  line-height: 21px;
 }
 
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: #00000000;
+  fill: #c8e6c9;
   stroke: #c8e6c9;
   stroke-width: 3px;
   rx: 6px;
@@ -21,13 +19,18 @@ foreignObject {
   height: calc(100% - 10px - 32px);
 }
 
-body {background: #c8e6c9;}
-#wrap {width: 100%; height: 100vh; margin: 0 auto; font-size: 4vh; color:#fff; text-align: center; text-transform: uppercase;}
-#header {width: 100%; height: 6vh; background: #2e7d32;}
-#nav {width: 100%; height: 6vh; background: #388e3c;}
-#side {float: left; width: 30%; height: 35vh; background: #43a047;}
-#contents {float: left; width: 70%; height: 35vh; background: #4caf50;}
-#footer {float: left; width: 100%; height: 6vh; background: #66bb6a;}
+.container{
+	width: 100%;
+	height: 100%;
+}
+
+body {background: #c8e6c9; height:100%;}
+#wrap {width: 100%; height: 100%; margin: 0 auto; font-size: 4vh; color:#fff; text-align: center; text-transform: uppercase;}
+#header {width: 100%; height: 6%; background: #2e7d32;}
+#nav {width: 100%; height: 6%; background: #388e3c;}
+#side {float: left; width: 30%; height: 35%; background: #43a047;}
+#contents {float: left; width: 70%; height: 35%; background: #4caf50;}
+#footer {float: left; width: 100%; height: 6%; background: #66bb6a;}
 
 @keyframes slideIn {
   to {
@@ -41,12 +44,14 @@ body {background: #c8e6c9;}
 <foreignObject x="21" y="21">
 <div class="container" xmlns="http://www.w3.org/1999/xhtml">
 
+<body>
 <div id="wrap">
 <div id="header">header</div>
 <div id="nav">nav</div>
 <div id="side">side</div>
 <div id="contents">contents</div>
 <div id="footer">footer</div></div>
+</body>
 
 </div>
 </foreignObject>
