@@ -21,7 +21,7 @@ foreignObject {
 }
 	
 body {background: #ffe0b2; width: 100%; height: 100%;}
-  #wrap {width: 100%; height: 100%; text-align: center; font-size: 4vh; color:#fff;}
+  #wrap {text-align: center; font-size: 4vh; color:#fff;}
   #header {width: 100%; height: 10%; background: #ffe1e4;}
   #banner {width: 100%; height: 30%; background: #fbd6e3;}
   #contents {width: 100%; height: 50%; background: #ead5ee;}
