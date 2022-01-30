@@ -21,11 +21,11 @@ foreignObject {
 }
 	
 body {background: #ffe0b2; width: 100%; height: 100%;}
-  #wrap {height: 100%; text-align: center; font-size: 4vh; color:#fff;}
-  #header {height: 10%; background: #ffe1e4;}
-  #banner {height: 30%; background: #fbd6e3;}
-  #contents {height: 50%; background: #ead5ee;}
-  #footer {height: 10%; background: #d6ebfd;}  
+  #wrap {width: 100%; height: 100%; text-align: center; font-size: 4vh; color:#fff;}
+  #header {width: 100%; height: 10%; background: #ffe1e4;}
+  #banner {width: 100%; height: 30%; background: #fbd6e3;}
+  #contents {width: 100%; height: 50%; background: #ead5ee;}
+  #footer {width: 100%; height: 10%; background: #d6ebfd;}  
   .container {width: 50%; height: 100%; background: rgba(0,0,0,0.3); margin: 0 auto;}
 	
 @keyframes slideIn {
