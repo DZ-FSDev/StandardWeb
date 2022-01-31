@@ -22,7 +22,7 @@ foreignObject {
 	
 
 body {margin: 0; padding: 0;}
-#wrap {width: 100%; height: 100%; text-align: center; font-size: 4vh; color:#fff;}
+#wrap {height: 100%; text-align: center; font-size: 4vh; color:#fff;}
 #header {height: 10%; background-color: #ffe1e4;}
 #banner {height: 30%; background-color: #fbd6e3;}
 #contents {height: 50%; background-color: #ead5ee;}
