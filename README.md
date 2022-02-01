@@ -4,7 +4,8 @@
 > Original Tutorial : https://youtube.com/playlist?list=PL4UVBBIc6giKixok-bC7XVEx0ZFsngr5Z (in Korean)
 
 > ### Improvements
-> (DON)In this directory, I will explore using viewport measurements in fluid design and svg prototyping!
+> (DON) In this directory, I will explore using viewport measurements in fluid design and svg prototyping!
+> 
 > (SAM) I changed jpg image files to svg files! (Updated Feb 1st, 2022) 
 
 
