@@ -21,10 +21,10 @@ foreignObject {
 	
 body {background: #ffe0b2; height:100%;}
 #wrap {height: 100%; text-align: center; font-size: 4vh; color:#fff;}
-#header {height: 10%; background-color: #ffe1e4;}
-#banner {height: 10%; background-color: #fbd6e3;}
-#contents {height: 45%; background-color: #ead5ee;}
-#footer {height: 15%; background-color: #d6ebfd;}  
+#header {height: 10%;}
+#banner {height: 10%; background-color: #4dd0e1;}
+#contents {height: 45%;}
+#footer {height: 15%;}  
 #header-top {width: 50%; height: 50%; background: #b2ebf2;}
 #header-nav {width: 50%; height: 50%; background: #80deea;}
 #content1 {width: 50%; height: 9%; background-color: #26c6da;}
