@@ -14,25 +14,25 @@
 
 | Layout 01                 | Layout 02                |
 |---------------------|-----------------------|
-| ![](./image/Layout01.svg) | ![](./image/Layout2.svg) |
+| ![](./image/Layout01.svg) | ![](./image/Layout02.svg) |
 
 | Layout 03                 | Layout 04                |
 |---------------------|-----------------------|
-| ![](./image/Layout3.svg) | ![](./image/Layout4.svg) |
+| ![](./image/Layout03.svg) | ![](./image/Layout04.svg) |
 
 ### Responsive Web Design (Layout 05, 06, 07)
 
 | Layout 05                |
 |---------------------|
-| ![](./image/Layout5.svg) |
+| ![](./image/Layout05.svg) |
 
 | Layout 06                 |
 |---------------------|
-| ![](./image/Layout6.svg) |
+| ![](./image/Layout06.svg) |
 
 | Layout 07                |
 |---------------------|
-| ![](./image/Layout7.svg) |
+| ![](./image/Layout07.svg) |
 
 
 <!-- CONTACT -->
