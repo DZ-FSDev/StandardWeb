@@ -14,7 +14,7 @@
 
 | Layout 01                 | Layout 02                |
 |---------------------|-----------------------|
-| ![](./image/Layout01.svg) | ![](./ViewPortFluidDesign/image/Layout1.svg) |
+| ![](./image/Layout01.svg) | ![](./ViewPortFluidDesign/image/Layout2.svg) |
 
 | Layout 03                 | Layout 04                |
 |---------------------|-----------------------|
