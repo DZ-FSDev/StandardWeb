@@ -14,25 +14,25 @@
 
 | Layout 01                 | Layout 02                |
 |---------------------|-----------------------|
-| ![](./image/Layout01.svg) | ![](./ViewPortFluidDesign/image/Layout2.svg) |
+| ![](./image/Layout01.svg) | ![](./image/Layout2.svg) |
 
 | Layout 03                 | Layout 04                |
 |---------------------|-----------------------|
-| ![](./ViewPortFluidDesign/image/Layout1.svg) | ![](./ViewPortFluidDesign/image/Layout1.svg) |
+| ![](./image/Layout3.svg) | ![](./image/Layout4.svg) |
 
 ### Responsive Web Design (Layout 05, 06, 07)
 
 | Layout 05                |
 |---------------------|
-| ![](./ViewPortFluidDesign/image/Layout1.svg) |
+| ![](./image/Layout5.svg) |
 
 | Layout 06                 |
 |---------------------|
-| ![](./ViewPortFluidDesign/image/Layout1.svg) |
+| ![](./image/Layout6.svg) |
 
 | Layout 07                |
 |---------------------|
-| ![](./ViewPortFluidDesign/image/Layout1.svg) |
+| ![](./image/Layout7.svg) |
 
 
 <!-- CONTACT -->
