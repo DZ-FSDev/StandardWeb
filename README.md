@@ -1,7 +1,11 @@
 # StandardWebLayout
 > This repository is for tutorials of layout of standard of website.
 >
-> Link : https://youtube.com/playlist?list=PL4UVBBIc6giKixok-bC7XVEx0ZFsngr5Z (in Korean)
+> Original Tutorial : https://youtube.com/playlist?list=PL4UVBBIc6giKixok-bC7XVEx0ZFsngr5Z (in Korean)
+
+> ### Improvements
+> In this directory, I will explore using viewport measurements in fluid design and svg prototyping!
+
 
 <!-- CONTENTS -->
 ## Contents
@@ -10,25 +14,22 @@
 
 | Layout 01                 | Layout 02                |
 |---------------------|-----------------------|
-| ![](./image/StandardWeb_Layout01.jpg) | ![](./image/StandardWeb_Layout02.jpg) |
+| ![](./image/Layout01.svg) | ![](./image/Layout02.svg) |
 
 | Layout 03                 | Layout 04                |
 |---------------------|-----------------------|
-| ![](./image/StandardWeb_Layout03.jpg) | ![](./image/StandardWeb_Layout04.jpg) |
+| ![](./image/Layout03.svg) | ![](./image/Layout04.svg) |
 
 ### Responsive Web Design (Layout 05, 06, 07)
 
-| Layout 05                |
-|---------------------|
-| ![](./image/StandardWeb_Layout05.jpg) |
+| Layout 05                 | Layout 06                |
+|---------------------|-----------------------|
+| ![](./image/Layout05.svg)) | ![](./image/Layout06.svg) |
 
-| Layout 06                 |
-|---------------------|
-| ![](./image/StandardWeb_Layout06.jpg) |
 
 | Layout 07                |
 |---------------------|
-| ![](./image/StandardWeb_Layout07.jpg) |
+| ![](./image/Layout07.svg) |
 
 
 <!-- CONTACT -->
