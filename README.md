@@ -26,7 +26,7 @@
 
 | Layout 05                 | Layout 06                |
 |---------------------|-----------------------|
-| ![](./ViewPortFluidDesign/image/Layout05.svg)) | ![](./ViewPortFluidDesign/image/Layout06.svg) |
+| ![](./ViewPortFluidDesign/image/Layout05.svg) | ![](./ViewPortFluidDesign/image/Layout06.svg) |
 
 
 | Layout 07                |
