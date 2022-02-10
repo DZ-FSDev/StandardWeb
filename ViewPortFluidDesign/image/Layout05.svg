@@ -52,7 +52,7 @@ body {background: #ffe0b2; height:100%;}
    <div class="banner-container">banner</div>
   </div>
   <div id="content-wrap">
-   <div class="content-container">content</div>
+   <div class="content-container">contents</div>
   </div>
   <div id="footer-wrap">
    <div class="footer-container">footer</div>
